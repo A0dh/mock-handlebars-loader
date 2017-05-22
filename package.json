@@ -1,6 +1,6 @@
 {
   "name": "mock-handlebars-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mock handlebars loader for testing",
   "main": "index.js",
   "scripts": {
