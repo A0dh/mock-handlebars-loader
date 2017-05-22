@@ -1,0 +1,22 @@
+{
+  "name": "mock-handlebars-loader",
+  "version": "1.0.0",
+  "description": "Mock handlebars loader for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A0dh/mock-handlebars-loader.git"
+  },
+  "author": "Andrej Burcev <andrej.burcev@yahoo.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A0dh/mock-handlebars-loader/issues"
+  },
+  "homepage": "https://github.com/A0dh/mock-handlebars-loader#readme",
+  "dependencies": {
+    "handlebars": "^4.0.10"
+  }
+}
